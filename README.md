@@ -1,2 +1,3 @@
-# gonote
-a simple notebook written in golang
+# thinkgo
+
+Opis projektu.
